@@ -5,14 +5,12 @@
 
 
 
-<div id="main-content-header" class="row">
-
-                <div class="col-sm-2 spacer">
-                </div>
+<div id="main-content-header" class="row container-fluid mainPage">
+                <div class="col-sm-1"/>
                 <div class="col-sm-4 phone">
-					<img class="size-full" src="http://polly.fm/wp-content/uploads/iphone1.png" alt="iphone" width="435" height="553">
+					<img class="hideMobile iphone" src="http://polly.fm/wp-content/uploads/iphone1.png" alt="iphone" width="435" height="553">
 				</div>
-				<div class="col-sm-4">
+				<div class="col-sm-6">
 					<div class="speechBubble">
 						<h3>Politics is broken.</h3>
 						<h3>Let’s do something about it.</h3>
@@ -44,10 +42,9 @@
 					<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 					<!--End mc_embed_signup-->
 					</div>
+                <div class="col-sm-1"/>
+                </div>
 
-                </div>
-				<div class="col-sm-2 spacer">
-                </div>
             </div>
 
 
